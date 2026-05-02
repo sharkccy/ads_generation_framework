@@ -2,7 +2,7 @@
 
 A fully automated pipeline for generating short advertisement videos from reference character and product images, powered by open-weight models running on Kaggle's free GPU tier.
 
-Framework architecture: ![Architecture](pipeline.pdf)
+Framework architecture: ![Architecture](pipeline.png)
 
 # What we done:
 You can find thousands of examples of text-to-image generation, image inpainting, and video generation on the community of comfyUI and Civitai. However, there are very few examples of how to integrate these capabilities into a unified, end-to-end pipeline for a real-world application.
