@@ -1,10 +1,11 @@
 # AutoAd: Automated Video Ad Generation on Kaggle
 
-A fully automated pipeline for generating short advertisement videos from a single product image, powered by open-weight models running on Kaggle's free GPU tier.
+A fully automated pipeline for generating short advertisement videos from reference character and product images, powered by open-weight models running on Kaggle's free GPU tier.
 
 # What we done:
-You can find thousands of examples of text-to-image generation, image inpainting, and video generation on the community of comfyUI and Civitai. However, there are very few examples of how to integrate these capabilities into a unified, end-to-end pipeline for a real-world application. 
-In this project, we demonstrate how to chain together multiple open-weight models into a seamless workflow that takes a single product image as input and produces a dynamic advertisement video as output. 
+You can find thousands of examples of text-to-image generation, image inpainting, and video generation on the community of comfyUI and Civitai. However, there are very few examples of how to integrate these capabilities into a unified, end-to-end pipeline for a real-world application.
+
+In this project, we demonstrate how to chain together multiple open-weight models into a seamless workflow that takes reference character and product images as input and produces a dynamic advertisement video as output. 
 
 ## Prerequisites
 
