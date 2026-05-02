@@ -1,4 +1,4 @@
-# AutoAd: Automated Video Ad Generation on Kaggle
+# AutoAd: Automated Video Ad Generation Framework
 
 A fully automated pipeline for generating short advertisement videos from reference character and product images, powered by open-weight models running on Kaggle's free GPU tier.
 
